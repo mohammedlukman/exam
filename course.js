@@ -1,0 +1,5 @@
+const course_name = "phs 101"
+const email = "olawale@gmail.com"
+const phone = "07085857354"
+const name = "akanbi"
+const level = "200L"
